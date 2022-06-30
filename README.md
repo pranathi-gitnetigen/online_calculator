@@ -1,1 +1,1 @@
-# online_calculator
+This is a simple ,basic project where we can perform mathematical calculations . I have used the languages HTML ,CSS in this project. This project was done by applying concepts of HTML and CSS. Though this project was simple ,it was quite useful in daily life.
